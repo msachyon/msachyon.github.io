@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Md Sadiul Alam Chyon  # Full name shown as site title
+title: Sadiul chyon  # Full name shown as site title
 first_name: Md Sadiul Alam
 middle_name:
 last_name: Chyon
@@ -12,10 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Md Sadiul Alam Chyon, PhD student in Geography and GIS at the University of Illinois at Urbana-Champaign. 
   Research focuses on river dynamics, sediment transport, and sustainable sand and gravel mining.
 footer_text: >
-  © 2025 Md Sadiul Alam Chyon | Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the 
-  <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted on 
-  <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  © 2025 Md Sadiul Alam Chyon | Last updated: October 31, 2025.
 keywords: sand mining, river geomorphology, sediment transport, GIS, remote sensing, hydrology, fluvial systems, academic website
 lang: en
 icon: 🌊 # represents your research in river/sediment systems
